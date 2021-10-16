@@ -1,7 +1,7 @@
 # ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React - Nelio Alves.
 > Evento realizado - 6 a 12 de setembro/2021
 > 
->  *Criação de um app completo para seu portfólio com as tecnologias mais demandadas do mercado*
+>  *Criação de um Dashboard de vendas app completo com as tecnologias mais usadas*
 
 ## Realização
 [DevSuperior - Escola de programação](https://devsuperior.com.br)
